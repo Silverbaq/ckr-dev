@@ -1,3 +1,3 @@
 # ckr-dev
 
-Open Source project
+Closed Source project
